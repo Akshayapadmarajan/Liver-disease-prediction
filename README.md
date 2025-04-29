@@ -1,7 +1,7 @@
 #  Liver Disease Classification 
 This machine learning project uses clinical data to classify patients into different stages of liver disease, including Hepatitis, Fibrosis, and Cirrhosis. The model is trained and evaluated using supervised learning techniques.
 
-##  Dataset
+## Dataset
 
 - **Source:** [Hepatitis C Dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset/data)
 - **Samples:** 615
